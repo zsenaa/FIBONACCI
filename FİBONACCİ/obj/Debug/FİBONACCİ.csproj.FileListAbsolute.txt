@@ -1,0 +1,13 @@
+C:\Users\kln\source\repos\FİBONACCİ\FİBONACCİ\bin\Debug\FİBONACCİ.exe.config
+C:\Users\kln\source\repos\FİBONACCİ\FİBONACCİ\bin\Debug\FİBONACCİ.exe
+C:\Users\kln\source\repos\FİBONACCİ\FİBONACCİ\bin\Debug\FİBONACCİ.pdb
+C:\Users\kln\source\repos\FİBONACCİ\FİBONACCİ\bin\Debug\Guna.UI2.dll
+C:\Users\kln\source\repos\FİBONACCİ\FİBONACCİ\obj\Debug\FİBONACCİ.csproj.AssemblyReference.cache
+C:\Users\kln\source\repos\FİBONACCİ\FİBONACCİ\obj\Debug\FİBONACCİ.csproj.SuggestedBindingRedirects.cache
+C:\Users\kln\source\repos\FİBONACCİ\FİBONACCİ\obj\Debug\FİBONACCİ.Form1.resources
+C:\Users\kln\source\repos\FİBONACCİ\FİBONACCİ\obj\Debug\FİBONACCİ.Properties.Resources.resources
+C:\Users\kln\source\repos\FİBONACCİ\FİBONACCİ\obj\Debug\FİBONACCİ.csproj.GenerateResource.cache
+C:\Users\kln\source\repos\FİBONACCİ\FİBONACCİ\obj\Debug\FİBONACCİ.csproj.CoreCompileInputs.cache
+C:\Users\kln\source\repos\FİBONACCİ\FİBONACCİ\obj\Debug\FİBONACCİ.csproj.CopyComplete
+C:\Users\kln\source\repos\FİBONACCİ\FİBONACCİ\obj\Debug\FİBONACCİ.exe
+C:\Users\kln\source\repos\FİBONACCİ\FİBONACCİ\obj\Debug\FİBONACCİ.pdb
